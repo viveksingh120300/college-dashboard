@@ -1,0 +1,21 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+autopep8 = "*"
+
+[packages]
+django-phonenumber-field = "==3.0.1"
+phonenumberslite = "==8.10.19"
+psycopg2-binary = "*"
+autopep8 = "==1.4.4"
+pycodestyle = "==2.5.0"
+pytz = "==2019.2"
+sqlparse = "==0.3.0"
+Django = "==2.2.5"
+Babel = "==2.7.0"
+
+[requires]
+python_version = "3.7"
