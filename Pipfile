@@ -15,7 +15,7 @@ pycodestyle = "==2.5.0"
 pytz = "==2019.2"
 sqlparse = "==0.3.0"
 Django = "==2.2.5"
-Babel = "==2.7.0"
+Babel = "==2.9.1"
 
 [requires]
 python_version = "3.7"
